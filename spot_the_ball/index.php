@@ -1,6 +1,10 @@
 <html>
 <head>
 <style>
+ul.available_ballstest {
+    list-style: none;
+	padding:0;
+}
 ul.available_balls {
     list-style: none;
 	padding:0;
@@ -36,7 +40,7 @@ ul.available_balls li:hover {
 	<ul class="available_balls">
 	</ul>
 	</div>	
-    <div>
+    <div>test
       <a id="test">
 		<img class="demo-box" src="football.png" />
       </a>

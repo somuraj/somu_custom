@@ -1,6 +1,10 @@
 <html>
 <head>
 <style>
+ul.available_ballstest {
+    list-style: none;
+	padding:0;
+}
 ul.available_balls {
     list-style: none;
 	padding:0;
